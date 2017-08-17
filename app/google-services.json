@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "281454408669",
+    "firebase_url": "https://clickathon-47da9.firebaseio.com",
+    "project_id": "clickathon-47da9",
+    "storage_bucket": "clickathon-47da9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281454408669:android:bca27f2cdce51e0e",
+        "android_client_info": {
+          "package_name": "com.example.hyunjin.clickathon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "281454408669-ide183qvbl8gfnjgodsufsc073p17s19.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hyunjin.clickathon",
+            "certificate_hash": "c86eb7012d1f8d1eb6550f69105afa10f3dd8012"
+          }
+        },
+        {
+          "client_id": "281454408669-9i1l9i2fapbqnetv5g6kadgeg3e7locq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBn0Cj3UfszcMNw5ilYTbRH5Yjr8aGtO8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "281454408669-9i1l9i2fapbqnetv5g6kadgeg3e7locq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
